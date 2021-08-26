@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fiap-social/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/fiap-social/static/js/main.963b4328.chunk.js",
+    "main.js.map": "/fiap-social/static/js/main.963b4328.chunk.js.map",
+    "runtime-main.js": "/fiap-social/static/js/runtime-main.0468ce2a.js",
+    "runtime-main.js.map": "/fiap-social/static/js/runtime-main.0468ce2a.js.map",
+    "static/js/2.4d379310.chunk.js": "/fiap-social/static/js/2.4d379310.chunk.js",
+    "static/js/2.4d379310.chunk.js.map": "/fiap-social/static/js/2.4d379310.chunk.js.map",
+    "index.html": "/fiap-social/index.html",
+    "static/css/main.d87cbb72.chunk.css.map": "/fiap-social/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.4d379310.chunk.js.LICENSE.txt": "/fiap-social/static/js/2.4d379310.chunk.js.LICENSE.txt",
+    "static/media/logo.d5f94a01.png": "/fiap-social/static/media/logo.d5f94a01.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0468ce2a.js",
+    "static/js/2.4d379310.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.963b4328.chunk.js"
+  ]
+}
