@@ -21,7 +21,30 @@ export const GlobalStyles = createGlobalStyle`
 
     body{
         font-family: sans-serif;
-        background-color: var(---bgPrimary);
+        background-color: var(--bgPrimary);
     }
 
+    input{
+        width: 100%;
+        height: 30px;
+        padding: 5px;
+        border: 2px solid var(--primary);
+    }
+
+    button{
+        color: var(--textButton);
+        font-weight: bold;
+        padding: 5px;
+        background-color: var(--primary);
+        border: none;
+
+        transition: transform 0.2s;
+
+        :active{
+            transform: scale(0.9);
+        }
+    }
+    p{
+        color: var(--textPrimary);
+    }
 `;
